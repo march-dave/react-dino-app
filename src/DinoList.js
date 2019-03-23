@@ -18,7 +18,7 @@ export default class DinoList extends Component {
                         <img className="card-icon" src="https://png.pngtree.com/element_pic/16/10/31/8d5628a528a720539da8c606f6677b0d.jpg" alt="Vector cartoon green dinosaur  png clipart from pngtree.com" />
                         <h2 className="card-title">Ankylosaurus</h2>
                         <dl className="card-definition">
-                            <dt>Photoshop 1.0</dt>
+                            <dt>Ankylosaurus</dt>
                             <dd>Color correction facility with balance, hue and saturation and Image Output Optimization was introduced also</dd>
                         </dl>
                     </div>
