@@ -1,8 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import DinoList from './DinoList'
 
 const Index = () => {
-  return <div>Hello React! You are ready for heroku</div>;
+  return (
+    <div>
+      <DinoList />
+    </div>
+  );
 };
 
 ReactDOM.render(<Index />, document.getElementById("index"));
