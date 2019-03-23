@@ -19,7 +19,7 @@ export default class DinoList extends Component {
                         <h2 className="card-title">Ankylosaurus</h2>
                         <dl className="card-definition">
                             <dt>Ankylosaurus</dt>
-                            <dd>Ankylosaurus had a very hard skin covered with spikes. With the club at the end of its tail, it could battles even the flercest dinosaurs.</dd>
+                            <dd>Ankylosaurus is an largest armoured dinosaur. They lived during the late cretatious period. They have boney spikes on his back to protect himslef from prey. They have a ball at the end of their tails.  </dd>
                         </dl>
                     </div>
                 </li>
@@ -29,10 +29,10 @@ export default class DinoList extends Component {
                         <h2 className="card-title">Baryonyx</h2>
                         <dl className="card-definition">
                             <dt>
-                                Photoshop 2.0
-                                <span>Fast Eddy</span>
+                            Baryonyx
+                                <span>Baryonyx</span>
                             </dt>
-                            <dd>Slight changes like paths in which it furnishes with creation of line based drawings and thus it becomes easier in manipulating. And for this purpose Pen Tool was introduced, CMYK color mode support, Masking was introduced.</dd>
+                            <dd>Baryonyx means heavy claw. They are carnivores and they love to eat fish the most. They catch their prey (fish) with their claWS.</dd>
                         </dl>
                     </div>
                 </li>
@@ -42,10 +42,10 @@ export default class DinoList extends Component {
                         <h2 className="card-title">Corythosaurus</h2>
                         <dl className="card-definition">
                             <dt>
-                                Photoshop 3.0
-                                <span>Tiger Mountain</span>
+                            Corythosaurus
+                                <span>Corythosaurus</span>
                             </dt>
-                            <dd>Layers and Tabbed palettes were introduced in this version which became an easy process in manipulating images.</dd>
+                            <dd>The Corythosauras are herbivores. They are from the late cretatious period.</dd>
                         </dl>
                     </div>
                 </li>
