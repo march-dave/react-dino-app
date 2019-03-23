@@ -58,7 +58,7 @@ export default class DinoList extends Component {
                                 Photoshop 4.0
                                 <span>Big Electric Cat</span>
                             </dt>
-                            <dd>Adjustment layers and macros were introduced in this version. They designed interface as the same like other Adobe Products.</dd>
+                            <dd> Diplodocus has a very long neck and tail. When predoetors tried to attack, they would swing its tail. This dinosaur is from the late Jurassic period. They are one of the longest dinosaurs in the world. </dd>
                         </dl>
                     </div>
                 </li>
@@ -71,7 +71,7 @@ export default class DinoList extends Component {
                                 Photoshop 5.0
                                 <span>Strange Cargo</span>
                             </dt>
-                            <dd>Undo command for multiple times, Managing color and Magnetic Lasso was introduced in this version.</dd>
+                            <dd> Euoplocephalus are armoured dinosaurs. They have a ball at the end of their tails and they broke predators tails with their boney spikes on their backs. They are from the late cretatous period.   </dd>
                         </dl>
                     </div>
                 </li>
@@ -84,7 +84,7 @@ export default class DinoList extends Component {
                                 Photoshop 6.0
                                 <span>Venus in Furs</span>
                             </dt>
-                            <dd>Vector shapes, Liquify Filter, Layer styles, Dialog box were added, User Interface was updated.</dd>
+                            <dd>Fabrosaurus are herbivores from the late cretatous period. When they saw predators, they ran very fast away from them. </dd>
                         </dl>
                     </div>
                 </li>
@@ -97,7 +97,7 @@ export default class DinoList extends Component {
                                 Photoshop 7.0
                                 <span>Liquid Sky</span>
                             </dt>
-                            <dd>Healing Brush tool was introduced, Designed Text in vector, And Photoshop file browser was first time introduced.</dd>
+                            <dd> Gorgosaurus are carnivores from the late cretatous. They ate Zuuls and other herbivores. Sometimes their theeth would break when eating other dinosaurs. </dd>
                         </dl>
                     </div>
                 </li>
@@ -110,7 +110,7 @@ export default class DinoList extends Component {
                                 Photoshop CS
                                 <span>Dark Matter</span>
                             </dt>
-                            <dd>Color correction facility with balance, hue and saturation and Image Output Optimization was introduced also</dd>
+                            <dd> Herrerasaurus are carnivores from the Triassic period. They ate insects and other herbivores.   </dd>
                         </dl>
                     </div>
                 </li>
@@ -123,7 +123,7 @@ export default class DinoList extends Component {
                                 Photoshop CS2
                                 <span>Space Monkey</span>
                             </dt>
-                            <dd>Camera RAW 2.x, Highly modified â€œSlice Toolâ€, Shadow/Highlight command, Match Color command, Lens Blur filter, Smart Guides, Real-Time Histogram was introduced in this version. A feature that detects and ignores images of banknotes was added.</dd>
+                            <dd>Iguanodon are herbivores from the cretatious period. They stood on two legs to eat leaves from tall trees. Sometimes they lived in herds. </dd>
                         </dl>
                     </div>
                 </li>
@@ -136,7 +136,7 @@ export default class DinoList extends Component {
                                 Photoshop cs3
                                 <span>Red Pill</span>
                             </dt>
-                            <dd>Black-and-white conversion adjustment, Auto Align and Auto Blend, Smart (non-destructive) Filters, Mobile device graphic optimization was introduced in this version, Furnishes native support for Intel base Macintosh platform and improved support for Windows Vista, Revised user interface, alterations to Curves, Vanishing Point, Channel Mixer, Brightness and Contrast, and the Print dialog were also introduced. Features like cloning and healing were improved. </dd>
+                            <dd>Janenschia are herbivores. It is an armoured dinosaur with a very long neck.  </dd>
                         </dl>
                     </div>
                 </li>
@@ -149,7 +149,7 @@ export default class DinoList extends Component {
                                 Photoshop CS4
                                 <span>Stonehenge</span>
                             </dt>
-                            <dd>New Adjustments window, Use dodge/burn without affecting other areas, Auto blend feature improved, Content aware cropping, Pixel grid for editing individual pixels, New Adjustments panel, New Masks panel, Content aware scaling, Extended depth of field , Fluid canvas rotation, Smoother panning, Smoother zooming, Support for colour-blind, 3D object painting, 3D object/property editing, 3D animation, 2D conversions to 3D, Volume rendering</dd>
+                            <dd>Kentrosaurus have spikes on their back and a spike on their legs. They are herbivores that lived during both the Jurrasic and Cretatious period.  </dd>
                         </dl>
                     </div>
                 </li>
@@ -162,7 +162,7 @@ export default class DinoList extends Component {
                                 Photoshop CS5
                                 <span>White Rabbit</span>
                             </dt>
-                            <dd>Content Aware Fill, Intelligent selection technology, Advanced HDR processing, Improved raw processing, Extended painting effects, Localised Warp tool, Auto lens correction, Workspace management, Advanced 3D options (CS5 Extended), and 30 JDI (Just Do it) additions.</dd>
+                            <dd>Lambeosaurus are herbivores that were four legged. They lived during the Cretatious period. Since they did not have long necks, they ate plants from the ground.  </dd>
                         </dl>
                     </div>
                 </li>
@@ -175,7 +175,7 @@ export default class DinoList extends Component {
                                 Photoshop CS6
                                 <span>Superstition</span>
                             </dt>
-                            <dd>UI redesign (all new icons and optional dark UI), Auto and background saves, Content-aware Patch and Move tools (extensions of content-aware fill introduced in previous version), Blur Gallery includes Tilt Shift, Iris and Field that can be used to create depth of field effects, Color Range: skin tone and face detection, Adobe Camera RAW 7, Enhanced crop tool with straighten option, New properties panel that can be used to vary properties of adjustment layers, Enhanced video support, Oil Paint filter now ships with the program, Adaptive Wide Angle filter, Paragraph and Character Styles, Built in support for Middle Eastern languages, Updated Printing UI, 3DLUT adjustment, Overhauled vector tools including stroking of vector paths, dotted or dashed, Snap to Pixel for vector tools and transforms, 3D UI completely redone, now easier to use, Last release for Windows XP SP3 and OS X Mountain Lion</dd>
+                            <dd> Minmi are herbivores from the early Cretatious period. They have boney spikes on their back and armour inside their stomach. They have little sharp teeth.</dd>
                         </dl>
                     </div>
                 </li>
@@ -188,7 +188,7 @@ export default class DinoList extends Component {
                                 Photoshop CC
                                 <span>Lucky 7</span>
                             </dt>
-                            <dd>Camera Shake Reduction, Former Extended features now always included, Intelligent Upsampling, Camera Raw as a filter, Editable rounded rectangles, Improved 3D painting, Share on Behance, Conditional Actions, System antialiasing style for type, Min and Max filter round kernel, Sync preferences with Cloud</dd>
+                            <dd> Nodosaurus are herbivores from the early Triassic period. They were 18 feet long and weighed nearly 3000 pounds. They lived in Alberta Canada. </dd>
                         </dl>
                     </div>
                 </li>
@@ -201,7 +201,7 @@ export default class DinoList extends Component {
                                 Photoshop CC2014
                                 <span>Single Malt Wiskey Cat</span>
                             </dt>
-                            <dd>Perspective Warp, Linked smart objects, 3D Printing support, Publish 3D models on Sketchfab, Adobe Camera Raw 8.3, Blur Gallery motion effects, Focus Mask, Expanded Mercury Graphics Engine support, Smart Object improvements, Adobe Camera Raw 8 enhancements</dd>
+                            <dd> Oviraptor were carnivores that did not have teeth. They had storng jaws. They kept their eggs warm with their feathers. </dd>
                         </dl>
                     </div>
                 </li>
@@ -214,7 +214,7 @@ export default class DinoList extends Component {
                                 Photoshop CC2014
                                 <span>Single Malt Wiskey Cat</span>
                             </dt>
-                            <dd>Perspective Warp, Linked smart objects, 3D Printing support, Publish 3D models on Sketchfab, Adobe Camera Raw 8.3, Blur Gallery motion effects, Focus Mask, Expanded Mercury Graphics Engine support, Smart Object improvements, Adobe Camera Raw 8 enhancements</dd>
+                            <dd>Parasaurolophus had hollow crosses on their heads. When they saw predators, they blew with their hollow crosses to make loud sounds. They lived during the late Cretatious period. </dd>
                         </dl>
                     </div>
                 </li>
@@ -227,7 +227,7 @@ export default class DinoList extends Component {
                                 Photoshop CC2014
                                 <span>Single Malt Wiskey Cat</span>
                             </dt>
-                            <dd>Perspective Warp, Linked smart objects, 3D Printing support, Publish 3D models on Sketchfab, Adobe Camera Raw 8.3, Blur Gallery motion effects, Focus Mask, Expanded Mercury Graphics Engine support, Smart Object improvements, Adobe Camera Raw 8 enhancements</dd>
+                            <dd>PQuetzalcoatlus were large flying reptiles. They lived during the same time as dinosaur. They are fish, and sometimes dead dinosaurs too.</dd>
                         </dl>
                     </div>
                 </li>
@@ -240,7 +240,7 @@ export default class DinoList extends Component {
                                 Photoshop CC2014
                                 <span>Single Malt Wiskey Cat</span>
                             </dt>
-                            <dd>Perspective Warp, Linked smart objects, 3D Printing support, Publish 3D models on Sketchfab, Adobe Camera Raw 8.3, Blur Gallery motion effects, Focus Mask, Expanded Mercury Graphics Engine support, Smart Object improvements, Adobe Camera Raw 8 enhancements</dd>
+                            <dd>Rebbachisaurus are one of the oldest herbivores. They had five claws. They are from the Triassic period. </dd>
                         </dl>
                     </div>
                 </li>
@@ -253,20 +253,20 @@ export default class DinoList extends Component {
                                 Photoshop CC2014
                                 <span>Single Malt Wiskey Cat</span>
                             </dt>
-                            <dd>Perspective Warp, Linked smart objects, 3D Printing support, Publish 3D models on Sketchfab, Adobe Camera Raw 8.3, Blur Gallery motion effects, Focus Mask, Expanded Mercury Graphics Engine support, Smart Object improvements, Adobe Camera Raw 8 enhancements</dd>
+                            <dd> Stegosaurus were herbivores. They had a plate on their back which kept them warm. When predators attacked, they swung their spikes on their tails, and turned the colour of their plates red. This dinosaur is from the Jurassic period. </dd>
                         </dl>
                     </div>
                 </li>
                 <li className="timeline-item">
                     <div className="card">
                         <img className="card-icon" src="https://png.pngtree.com/element_pic/16/10/31/8d5628a528a720539da8c606f6677b0d.jpg" alt="Vector cartoon green dinosaur  png clipart from pngtree.com" />
-                        <h2 className="card-title">Tyrannosaurus rex</h2>
+                        <h2 className="card-title">Tyrannosaurus Rex</h2>
                         <dl className="card-definition">
                             <dt>
                                 Photoshop CC2014
                                 <span>Single Malt Wiskey Cat</span>
                             </dt>
-                            <dd>Perspective Warp, Linked smart objects, 3D Printing support, Publish 3D models on Sketchfab, Adobe Camera Raw 8.3, Blur Gallery motion effects, Focus Mask, Expanded Mercury Graphics Engine support, Smart Object improvements, Adobe Camera Raw 8 enhancements</dd>
+                            <dd>Tyrannosaurus Rex, commonly known as the T Rex, were carnivores from the late Cretatious periof. They ate many different dinosaurs. They fought the Ankylosaurus for their prey. </dd>
                         </dl>
                     </div>
                 </li>
@@ -279,7 +279,7 @@ export default class DinoList extends Component {
                                 Photoshop CC2014
                                 <span>Single Malt Wiskey Cat</span>
                             </dt>
-                            <dd>Perspective Warp, Linked smart objects, 3D Printing support, Publish 3D models on Sketchfab, Adobe Camera Raw 8.3, Blur Gallery motion effects, Focus Mask, Expanded Mercury Graphics Engine support, Smart Object improvements, Adobe Camera Raw 8 enhancements</dd>
+                            <dd>Utahraptor were carnivores from the Cretatious period. They had feathers. They were very fast. </dd>
                         </dl>
                     </div>
                 </li>
@@ -292,7 +292,7 @@ export default class DinoList extends Component {
                                 Photoshop CC2014
                                 <span>Single Malt Wiskey Cat</span>
                             </dt>
-                            <dd>Perspective Warp, Linked smart objects, 3D Printing support, Publish 3D models on Sketchfab, Adobe Camera Raw 8.3, Blur Gallery motion effects, Focus Mask, Expanded Mercury Graphics Engine support, Smart Object improvements, Adobe Camera Raw 8 enhancements</dd>
+                            <dd>Velociraptor are carnivores from the late Cretatious period. They were very fast. They had very sharp claws. Because they were not strong dinosaurs, they caught their prey in heards.</dd>
                         </dl>
                     </div>
                 </li>
@@ -305,7 +305,7 @@ export default class DinoList extends Component {
                                 Photoshop CC2014
                                 <span>Single Malt Wiskey Cat</span>
                             </dt>
-                            <dd>Perspective Warp, Linked smart objects, 3D Printing support, Publish 3D models on Sketchfab, Adobe Camera Raw 8.3, Blur Gallery motion effects, Focus Mask, Expanded Mercury Graphics Engine support, Smart Object improvements, Adobe Camera Raw 8 enhancements</dd>
+                            <dd>Wannanosauurus liked to play head banging games with other Wannanosauuruses. They were herbivores and ate plates from the ground. They are from the late Cretatious period. When predators attacked, they would head-butt their predators. </dd>
                         </dl>
                     </div>
                 </li>
@@ -318,7 +318,7 @@ export default class DinoList extends Component {
                                 Photoshop CC2014
                                 <span>Single Malt Wiskey Cat</span>
                             </dt>
-                            <dd>Perspective Warp, Linked smart objects, 3D Printing support, Publish 3D models on Sketchfab, Adobe Camera Raw 8.3, Blur Gallery motion effects, Focus Mask, Expanded Mercury Graphics Engine support, Smart Object improvements, Adobe Camera Raw 8 enhancements</dd>
+                            <dd>Yingshanosaurus are from the Jurassic period. They had plates on their backs which kept them warm. They at ate plant from the grounds. When predators came, the Yingshanosaurus swung their four-spiked tails at them. </dd>
                         </dl>
                     </div>
                 </li>
@@ -331,7 +331,7 @@ export default class DinoList extends Component {
                                 Photoshop CC2014
                                 <span>Single Malt Wiskey Cat</span>
                             </dt>
-                            <dd>Perspective Warp, Linked smart objects, 3D Printing support, Publish 3D models on Sketchfab, Adobe Camera Raw 8.3, Blur Gallery motion effects, Focus Mask, Expanded Mercury Graphics Engine support, Smart Object improvements, Adobe Camera Raw 8 enhancements</dd>
+                            <dd>Xenotarsosaurus were carnivores. They had two hords above their eyes. They looked like an armoured dinosaur but they actually were not. </dd>
                         </dl>
                     </div>
                 </li>
@@ -342,7 +342,7 @@ export default class DinoList extends Component {
                         <dl className="card-definition">
                             <dt>
                                 Zuul
-                                <span>Zuul is so Cute</span>
+                                <span>Zuuls were armoured dinosaurs from the late Cretatious period. They had boney spikes on his back and a ball at the end of their tails. The name Zuul came from the Red Eye Monster. The stomach of the Zuul is not armoured. They have boney epikes on their face. </span>
                             </dt>
                             <dd>Zuul</dd>
                         </dl>
