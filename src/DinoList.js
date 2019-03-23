@@ -337,14 +337,14 @@ export default class DinoList extends Component {
                 </li>
                 <li className="timeline-item">
                     <div className="card">
-                        <img className="card-icon" src="https://png.pngtree.com/element_pic/16/10/31/8d5628a528a720539da8c606f6677b0d.jpg" alt="Vector cartoon green dinosaur  png clipart from pngtree.com" />
+                        <img className="card-icon" src="https://http://res.cloudinary.com/drrwovgv6/image/upload/v1553362488/zuul_adaw57.jpg" alt="Zuul" />
                         <h2 className="card-title">Zuul</h2>
                         <dl className="card-definition">
                             <dt>
-                                Photoshop CC2014
-                                <span>Single Malt Wiskey Cat</span>
+                                Zuul
+                                <span>Zuul is so Cute</span>
                             </dt>
-                            <dd>Perspective Warp, Linked smart objects, 3D Printing support, Publish 3D models on Sketchfab, Adobe Camera Raw 8.3, Blur Gallery motion effects, Focus Mask, Expanded Mercury Graphics Engine support, Smart Object improvements, Adobe Camera Raw 8 enhancements</dd>
+                            <dd>Zuul</dd>
                         </dl>
                     </div>
                 </li>
