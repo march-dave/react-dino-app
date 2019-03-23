@@ -6,7 +6,7 @@ export default class DinoList extends Component {
       <div>
         <div className="cover">
             <h1 className="cover-title">
-                <span>The History of</span>
+                <span>The Story of</span>
                 Dinosaur A-Z
             </h1>
         </div>
