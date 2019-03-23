@@ -125,7 +125,7 @@ body {
     }
     .timeline-item:nth-child(even) {
         margin-left: auto;
-        margin-top: -150px;
+        margin-top: -50px;
         margin-bottom: -200px;
         text-align: left;
     }

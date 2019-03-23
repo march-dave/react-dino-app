@@ -56,7 +56,7 @@ body {
     left: 50%;
     background-color: rgba(0,0,0,0.5);
     z-index: -1;
-    margin-top: 20px;
+    margin-top: -20px;
     top: 5vw;
     bottom: 0;
     width: 6px;
@@ -125,7 +125,7 @@ body {
     }
     .timeline-item:nth-child(even) {
         margin-left: auto;
-        margin-top: -150px;
+        margin-top: -50px;
         margin-bottom: -200px;
         text-align: left;
     }
