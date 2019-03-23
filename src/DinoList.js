@@ -19,7 +19,7 @@ export default class DinoList extends Component {
                         <h2 className="card-title">Ankylosaurus</h2>
                         <dl className="card-definition">
                             <dt>Ankylosaurus</dt>
-                            <dd>Ankylosaurus is an largest armoured dinosaur. They lived during the late cretatious period. They have boney spikes on his back to protect himslef from prey. They have a ball at the end of their tails.  </dd>
+                            <dd>Ankylosaurus was the largest armoured dinosaur. They lived during the late Cretatious period. They had boney spikes on their backs to protect themselves from thier predators. They had a ball at the end of their tails.  </dd>
                         </dl>
                     </div>
                 </li>
