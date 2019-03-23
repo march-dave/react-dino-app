@@ -337,7 +337,7 @@ export default class DinoList extends Component {
                 </li>
                 <li className="timeline-item">
                     <div className="card">
-                        <img className="card-icon" src="https://http://res.cloudinary.com/drrwovgv6/image/upload/v1553362488/zuul_adaw57.jpg" alt="Zuul" />
+                        <img className="card-icon" src="https://res.cloudinary.com/drrwovgv6/image/upload/v1553362488/zuul_adaw57.jpg" alt="Zuul" />
                         <h2 className="card-title">Zuul</h2>
                         <dl className="card-definition">
                             <dt>
