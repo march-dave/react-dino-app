@@ -19,7 +19,7 @@ export default class DinoList extends Component {
                         <h2 className="card-title">Ankylosaurus</h2>
                         <dl className="card-definition">
                             <dt>Ankylosaurus</dt>
-                            <dd>Ankylosaurus</dd>
+                            <dd>Ankylosaurus had a very hard skin covered with spikes. With the club at the end of its tail, it could battles even the flercest dinosaurs.</dd>
                         </dl>
                     </div>
                 </li>
