@@ -77,7 +77,7 @@ export default class DinoList extends Component {
                 </li>
                 <li className="timeline-item">
                     <div className="card">
-                        <img className="card-icon" src="https://png.pngtree.com/element_pic/16/10/31/8d5628a528a720539da8c606f6677b0d.jpg" alt="Vector cartoon green dinosaur  png clipart from pngtree.com" />
+                        <img className="card-icon" src="https://res.cloudinary.com/drrwovgv6/image/upload/v1553443711/fabrosaurus_qruwli.jpg" alt="Fabrosaurus" />
                         <h2 className="card-title">Fabrosaurus</h2>
                         <dl className="card-definition">
                             <dt>
