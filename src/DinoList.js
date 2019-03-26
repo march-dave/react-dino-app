@@ -279,7 +279,7 @@ export default class DinoList extends Component {
                             Ultrasaurus
                                 <span>Ultrasaurus</span>
                             </dt>
-                            <dd>Ultrasaurus were herbivores. It was one of the biggest dinosaurs and also to third floor reachable.</dd>
+                            <dd>Ultrasaurus were herbivores. They were one of the biggest dinosaurs and reachable third floor.</dd>
                         </dl>
                     </div>
                 </li>
