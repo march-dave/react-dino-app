@@ -272,14 +272,14 @@ export default class DinoList extends Component {
                 </li>
                 <li className="timeline-item">
                     <div className="card">
-                        <img className="card-icon" src="https://png.pngtree.com/element_pic/16/10/31/8d5628a528a720539da8c606f6677b0d.jpg" alt="Vector cartoon green dinosaur  png clipart from pngtree.com" />
-                        <h2 className="card-title">Utahraptor</h2>
+                        <img className="card-icon" src="https://res.cloudinary.com/drrwovgv6/image/upload/v1553559987/ultrasaurus_iyag0h.jpg" alt="Ultrasaurus" />
+                        <h2 className="card-title">Ultrasaurus</h2>
                         <dl className="card-definition">
                             <dt>
-                            Utahraptor
-                                <span>Utahraptor</span>
+                            Ultrasaurus
+                                <span>Ultrasaurus</span>
                             </dt>
-                            <dd>Utahraptor were carnivores from the Cretatious period. They had feathers. They were very fast. </dd>
+                            <dd>Ultrasaurus were herbivores. It was one of the biggest dinosaurs and also to third floor reachable.</dd>
                         </dl>
                     </div>
                 </li>
