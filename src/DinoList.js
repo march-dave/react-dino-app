@@ -207,14 +207,14 @@ export default class DinoList extends Component {
                 </li>
                 <li className="timeline-item">
                     <div className="card">
-                        <img className="card-icon" src="https://png.pngtree.com/element_pic/16/10/31/8d5628a528a720539da8c606f6677b0d.jpg" alt="Vector cartoon green dinosaur  png clipart from pngtree.com" />
-                        <h2 className="card-title">Parasaurolophus</h2>
+                        <img className="card-icon" src="https://res.cloudinary.com/drrwovgv6/image/upload/v1553817652/pachycephalosaurus.jpq_oggebb.jpg" alt="Vector cartoon green dinosaur  png clipart from pngtree.com" />
+                        <h2 className="card-title">Pachycephalosaurus</h2>
                         <dl className="card-definition">
                             <dt>
-                            Parasaurolophus
-                                <span>Parasaurolophus</span>
+                            Pachycephalosaurus
+                                <span>Pachycephalosaurus</span>
                             </dt>
-                            <dd>Parasaurolophus had hollow crosses on their heads. When they saw predators, they blew with their hollow crosses to make loud sounds. They lived during the late Cretatious period. </dd>
+                            <dd>Pachycephalosaurus had hollow crosses on their heads. When they saw predators, they blew with their hollow crosses to make loud sounds. They lived during the late Cretatious period. </dd>
                         </dl>
                     </div>
                 </li>
