@@ -116,7 +116,7 @@ export default class DinoList extends Component {
                 </li>
                 <li className="timeline-item">
                     <div className="card">
-                        <img className="card-icon" src="https://res.cloudinary.com/drrwovgv6/image/upload/v1553444284/iguanodon_ksypck.jpg" alt="Iguanodon" />
+                        <img className="card-icon" src="https://res.cloudinary.com/drrwovgv6/image/upload/v1553444284/iguanodon_ksypck.jpg" alt="Iguanodon" title="Iguanodon" />
                         <h2 className="card-title">Iguanodon</h2>
                         <dl className="card-definition">
                             <dt>
@@ -129,7 +129,7 @@ export default class DinoList extends Component {
                 </li>
                 <li className="timeline-item">
                     <div className="card">
-                        <img className="card-icon" src="https://png.pngtree.com/element_pic/16/10/31/8d5628a528a720539da8c606f6677b0d.jpg" alt="Vector cartoon green dinosaur  png clipart from pngtree.com" />
+                        <img className="card-icon" src="https://png.pngtree.com/element_pic/16/10/31/8d5628a528a720539da8c606f6677b0d.jpg" alt="Janenschia" title="Janenschia" />
                         <h2 className="card-title">Janenschia</h2>
                         <dl className="card-definition">
                             <dt>
@@ -142,7 +142,7 @@ export default class DinoList extends Component {
                 </li>
                 <li className="timeline-item">
                     <div className="card">
-                        <img className="card-icon" src="https://png.pngtree.com/element_pic/16/10/31/8d5628a528a720539da8c606f6677b0d.jpg" alt="Vector cartoon green dinosaur  png clipart from pngtree.com" />
+                        <img className="card-icon" src="https://png.pngtree.com/element_pic/16/10/31/8d5628a528a720539da8c606f6677b0d.jpg" alt="Kentrosaurus" title="Kentrosaurus" />
                         <h2 className="card-title">Kentrosaurus</h2>
                         <dl className="card-definition">
                             <dt>
@@ -155,7 +155,7 @@ export default class DinoList extends Component {
                 </li>
                 <li className="timeline-item">
                     <div className="card">
-                        <img className="card-icon" src="https://png.pngtree.com/element_pic/16/10/31/8d5628a528a720539da8c606f6677b0d.jpg" alt="Vector cartoon green dinosaur  png clipart from pngtree.com" />
+                        <img className="card-icon" src="https://res.cloudinary.com/drrwovgv6/image/upload/v1553819121/leptoceratops_gamqme.jpg" alt="Leptoceratops" title="Leptoceratops" />
                         <h2 className="card-title">Leptoceratops</h2>
                         <dl className="card-definition">
                             <dt>
