@@ -156,13 +156,13 @@ export default class DinoList extends Component {
                 <li className="timeline-item">
                     <div className="card">
                         <img className="card-icon" src="https://png.pngtree.com/element_pic/16/10/31/8d5628a528a720539da8c606f6677b0d.jpg" alt="Vector cartoon green dinosaur  png clipart from pngtree.com" />
-                        <h2 className="card-title">Lambeosaurus</h2>
+                        <h2 className="card-title">Leptoceratops</h2>
                         <dl className="card-definition">
                             <dt>
-                            Lambeosaurus
-                                <span>Lambeosaurus</span>
+                            Leptoceratops
+                                <span>Leptoceratops</span>
                             </dt>
-                            <dd>Lambeosaurus are herbivores that were four legged. They lived during the Cretatious period. Since they did not have long necks, they ate plants from the ground.  </dd>
+                            <dd>Leptoceratops are herbivores. Leptoceratops means 'slender-hourne face'. They can walk four legs or two legs</dd>
                         </dl>
                     </div>
                 </li>
