@@ -162,7 +162,7 @@ export default class DinoList extends Component {
                             Leptoceratops
                                 <span>Leptoceratops</span>
                             </dt>
-                            <dd>Leptoceratops are herbivores. Leptoceratops means 'slender-horned face'. They can walk four legs or two legs. Leptoceratops doesn't have horned</dd>
+                            <dd>Leptoceratops are herbivores. Leptoceratops means 'slender-horned face' but doesn't have real horned. They can walk four legs or two legs. He is smaller than human.</dd>
                         </dl>
                     </div>
                 </li>
