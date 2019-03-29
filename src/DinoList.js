@@ -207,14 +207,14 @@ export default class DinoList extends Component {
                 </li>
                 <li className="timeline-item">
                     <div className="card">
-                        <img className="card-icon" src="https://res.cloudinary.com/drrwovgv6/image/upload/v1553817652/pachycephalosaurus.jpq_oggebb.jpg" alt="Pachycephalosaurus" title="Pachycephalosaurus" />
+                        <img className="card-icon" src="https://res.cloudinary.com/drrwovgv6/image/upload/v1553817652/pachycephalosaurus.jpq_oggebb.jpg" alt="Pachycephalosaurus" title="Pachycephalosaurus" onTouchStart={ () =>  { console.log('onClick') } }  /> 
                         <h2 className="card-title">Pachycephalosaurus</h2>
                         <dl className="card-definition">
                             <dt>
                             Pachycephalosaurus
                                 <span>Pachycephalosaurus</span>
                             </dt>
-                            <dd>Pachycephalosaurus had hollow crosses on their heads. When they saw predators, they blew with their hollow crosses to make loud sounds. They lived during the late Cretatious period. </dd>
+                            <dd>Pachycephalosaurus has thick head there head is thick as a bone they have bone spike on there has they like to had bang at against to another friend other thick had dinosaurs like to head bang  top of head when predators come they head bang to them </dd>
                         </dl>
                     </div>
                 </li>
