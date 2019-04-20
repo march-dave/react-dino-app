@@ -106,6 +106,7 @@ body {
     font-size: 0.5em;
 }
 
+/* 720px 보다 크다면 min-width!! */
 @media ( min-width: 720px ) {
     .cover {
         padding-top: 10%;
