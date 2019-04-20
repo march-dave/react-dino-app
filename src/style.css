@@ -106,7 +106,7 @@ body {
     font-size: 0.5em;
 }
 
-/* 720px 보다 크다면 min-width!! */
+/* 720px 보다 크다면 min-width!! 의미는 데스크탑 */
 @media ( min-width: 720px ) {
     .cover {
         padding-top: 10%;
