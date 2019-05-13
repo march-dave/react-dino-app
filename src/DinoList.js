@@ -181,14 +181,14 @@ export default class DinoList extends Component {
                 </li>
                 <li className="timeline-item">
                     <div className="card">
-                        <img className="card-icon" src="https://res.cloudinary.com/drrwovgv6/image/upload/v1557706245/nigersaurus_jravxr.jpg" alt="Vector cartoon green dinosaur  png clipart from pngtree.com" />
-                        <h2 className="card-title">Nodosaurus</h2>
+                        <img className="card-icon" src="https://res.cloudinary.com/drrwovgv6/image/upload/v1557706245/nigersaurus_jravxr.jpg" alt="Nigersaurus" />
+                        <h2 className="card-title">Nigersaurus</h2>
                         <dl className="card-definition">
                             <dt>
-                            Nodosaurus
-                                <span>Nodosaurus</span>
+                            Nigersaurus
+                                <span>Nigersaurus</span>
                             </dt>
-                            <dd> Nodosaurus are herbivores from the early Triassic period. They were 18 feet long and weighed nearly 3000 pounds. They lived in Alberta Canada. </dd>
+                            <dd> Nigersaurus are herbivores from the early Jurassic period.</dd>
                         </dl>
                     </div>
                 </li>
