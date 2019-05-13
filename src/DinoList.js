@@ -188,7 +188,7 @@ export default class DinoList extends Component {
                             Nigersaurus
                                 <span>Nigersaurus</span>
                             </dt>
-                            <dd> Nigersaurus are herbivores from the early Jurassic period.</dd>
+                            <dd> Nigersaurus are herbivores from the late Jurassic period. Nigersaurus is also sauropods. Sauropods was a long neck dinosaur. You cannot miss them because they're so large! They're longer than three school buses.   </dd>
                         </dl>
                     </div>
                 </li>
@@ -201,7 +201,7 @@ export default class DinoList extends Component {
                             Oviraptor
                                 <span>Oviraptor</span>
                             </dt>
-                            <dd> Oviraptor were carnivores that did not have teeth. They had storng jaws. They kept their eggs warm with their feathers. </dd>
+                            <dd> Oviraptors were carnivores that did not have teeth. They had storng jaws. They kept their eggs warm with their feathers. </dd>
                         </dl>
                     </div>
                 </li>
@@ -214,7 +214,7 @@ export default class DinoList extends Component {
                             Pachycephalosaurus
                                 <span>Pachycephalosaurus</span>
                             </dt>
-                            <dd>Pachycephalosaurus has thick head there head is thick as a bone they have bone spike on there has they like to had bang at against to another friend other thick had dinosaurs like to head bang  top of head when predators come they head bang to them </dd>
+                            <dd>Pachycephalosaurus had thick heads. Their heads were as thick as a bone. They banged their predator's heads. These dinosauars walked on two legs and had a curvey "s" shaped neck.  </dd>
                         </dl>
                     </div>
                 </li>
@@ -227,7 +227,7 @@ export default class DinoList extends Component {
                             Quetzalcoatlus
                                 <span>Quetzalcoatlus</span>
                             </dt>
-                            <dd>PQuetzalcoatlus were large flying reptiles. They lived during the same time as dinosaur. They are fish, and sometimes dead dinosaurs too.</dd>
+                            <dd>Quetzalcoatlus were large flying reptiles. They lived during the same time as dinosaur. They are fish, and sometimes dead dinosaurs too.</dd>
                         </dl>
                     </div>
                 </li>
