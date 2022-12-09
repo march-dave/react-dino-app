@@ -24,7 +24,7 @@
     "webpack-dev-server": "^3.2.1"
   },
   "dependencies": {
-    "express": "4.16.4",
+    "express": "4.17.3",
     "heroku-cli": "^7.0.9",
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
